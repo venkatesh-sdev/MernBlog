@@ -15,9 +15,11 @@
   "license": "MIT",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "startServer": "cd api && node index.js",
+    "startClient":"cd client && yarn start"
   },
   "keywords": [],
-  "author": "",
-  "description": ""
+  "author": "Venkatesh S <venkatesh.dev.main@gmail.com>",
+  "description": "",
+  "repository": "https://github.com/venkatesh-sdev/Pavi-Blog.git"
 }
