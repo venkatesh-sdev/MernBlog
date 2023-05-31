@@ -1,4 +1,4 @@
-# Pavi-Blog
+# MERN-Blog
 $ yarn install
 
 $ cd api
